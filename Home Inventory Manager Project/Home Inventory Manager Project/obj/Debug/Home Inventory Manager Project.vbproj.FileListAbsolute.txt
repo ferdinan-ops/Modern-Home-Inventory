@@ -1,0 +1,15 @@
+C:\Users\ASUS\AppData\Local\Temporary Projects\Home Inventory Manager Project\bin\Debug\Home Inventory Manager Project.exe.config
+D:\Semua Projek VB.Net\Tugas Kelompok IMK\BlackJack\Home Inventory Manager\Home Inventory Manager Project\Home Inventory Manager Project\bin\Debug\Home Inventory Manager Project.exe.config
+D:\Semua Projek VB.Net\Tugas Kelompok IMK\Home Inventory Manager\Home Inventory Manager Project\Home Inventory Manager Project\bin\Debug\Home Inventory Manager Project.exe.config
+D:\Semua Projek VB.Net\Tugas Kelompok IMK\Home Inventory Manager\Home Inventory Manager Project\Home Inventory Manager Project\bin\Debug\Home Inventory Manager Project.exe
+D:\Semua Projek VB.Net\Tugas Kelompok IMK\Home Inventory Manager\Home Inventory Manager Project\Home Inventory Manager Project\bin\Debug\Home Inventory Manager Project.pdb
+D:\Semua Projek VB.Net\Tugas Kelompok IMK\Home Inventory Manager\Home Inventory Manager Project\Home Inventory Manager Project\bin\Debug\Home Inventory Manager Project.xml
+D:\Semua Projek VB.Net\Tugas Kelompok IMK\Home Inventory Manager\Home Inventory Manager Project\Home Inventory Manager Project\bin\Debug\Guna.UI.dll
+D:\Semua Projek VB.Net\Tugas Kelompok IMK\Home Inventory Manager\Home Inventory Manager Project\Home Inventory Manager Project\obj\Debug\Home_Inventory_Manager_Project.frmInventory.resources
+D:\Semua Projek VB.Net\Tugas Kelompok IMK\Home Inventory Manager\Home Inventory Manager Project\Home Inventory Manager Project\obj\Debug\Home_Inventory_Manager_Project.Resources.resources
+D:\Semua Projek VB.Net\Tugas Kelompok IMK\Home Inventory Manager\Home Inventory Manager Project\Home Inventory Manager Project\obj\Debug\Home Inventory Manager Project.vbproj.GenerateResource.Cache
+D:\Semua Projek VB.Net\Tugas Kelompok IMK\Home Inventory Manager\Home Inventory Manager Project\Home Inventory Manager Project\obj\Debug\Home Inventory Manager Project.exe
+D:\Semua Projek VB.Net\Tugas Kelompok IMK\Home Inventory Manager\Home Inventory Manager Project\Home Inventory Manager Project\obj\Debug\Home Inventory Manager Project.xml
+D:\Semua Projek VB.Net\Tugas Kelompok IMK\Home Inventory Manager\Home Inventory Manager Project\Home Inventory Manager Project\obj\Debug\Home Inventory Manager Project.pdb
+D:\Semua Projek VB.Net\Tugas Kelompok IMK\Home Inventory Manager\Home Inventory Manager Project\Home Inventory Manager Project\obj\Debug\Home Inventory Manager Project.vbprojResolveAssemblyReference.cache
+D:\Semua Projek VB.Net\Tugas Kelompok IMK\Home Inventory Manager\Home Inventory Manager Project\Home Inventory Manager Project\obj\Debug\Home_Inventory_Manager_Project.Print.resources
