@@ -1,6 +1,10 @@
 
 # Modern Home Inventory Using VB.NET
 
+Hi, here I have created a Home Inventory Manager project with a modern and attractive design. I also took references from dribble for my design project. I really like seeing this design project that I made but of course this project works as it should.
+
+In this Home Inventory Manager project I use the VB.NET programming language, Microsoft Visual Studio for the IDE, GUNA UI for the framework and MySQL for the database. This project is open to anyone who wants to develop it.
+
 # Screenshoots
 
 <ul>
