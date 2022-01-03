@@ -5,6 +5,15 @@ Hi, here I have created a Home Inventory Manager project with a modern and attra
 
 In this Home Inventory Manager project I use the VB.NET programming language, Microsoft Visual Studio for the IDE, GUNA UI for the framework and MySQL for the database. This project is open to anyone who wants to develop it.
 
+<h2>What I Used</h2>
+<ol>
+  <li><b>Programing Language:</b> Visual Basic</li>
+  <li><b>Framework:</b> GUNA UI</li>
+  <li><b>IDE:</b> Microsof Visual Studio 2012</li>
+  <li><b>Database:</b> MySQL</li>
+  <li><b>CI/CD:</b> Github</li>
+</ol>
+
 # Screenshoots
 
 <ul>
